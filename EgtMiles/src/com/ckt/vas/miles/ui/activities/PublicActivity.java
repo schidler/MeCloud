@@ -21,6 +21,7 @@ import android.view.animation.RotateAnimation;
 import android.view.animation.ScaleAnimation;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -49,7 +50,7 @@ public class PublicActivity extends Activity implements OnTouchListener,
 	private ExtendedListView dataListView;
 
 	// clock
-	private FrameLayout clockLayout;
+	private LinearLayout clockLayout;
 
 	// activity_overlay
 
@@ -96,7 +97,7 @@ public class PublicActivity extends Activity implements OnTouchListener,
 		setAdapterForThis();
 		dataListView.setCacheColorHint(Color.TRANSPARENT);
 		dataListView.setOnPositionChangedListener(this);
-		clockLayout = (FrameLayout) findViewById(R.id.clock);
+		clockLayout = (LinearLayout) findViewById(R.id.clock);
 		// clockLayout.setLayoutChangedListener(dataListView);
 
 		// splash.setVisibility(View.GONE);
@@ -191,7 +192,7 @@ public class PublicActivity extends Activity implements OnTouchListener,
 				"麦当劳(春熙路店)", "真不错", R.drawable.coffe1, 1333185510605l));
 		
 		messages.add(new ActivityMessage(R.drawable.gauss0, "Gauss",
-				"龙抄手(武侯路店)", "真不错", R.drawable.coffe2, 1333187510605l));
+				"龙抄手(武侯路店)", "真不错", R.drawable.coffe2, 1373187510605l));
 		
 	}
 
@@ -276,6 +277,7 @@ public class PublicActivity extends Activity implements OnTouchListener,
 		System.out.println("layout=======padding top========"
 				+ scrollBarPanel.getPaddingTop());
 		TextView datestr = ((TextView) findViewById(R.id.clock_digital_date));
+		TextView ydatestr = ((TextView) findViewById(R.id.clock_digital_ydate));
 		TextView timestr = ((TextView) findViewById(R.id.clock_digital_time));
 		ImageView minView = (ImageView) findViewById(R.id.clock_face_minute);
 		ImageView hourView = (ImageView) findViewById(R.id.clock_face_hour);
@@ -304,6 +306,8 @@ public class PublicActivity extends Activity implements OnTouchListener,
 		tmpstr += hour + ":" + msg.getMin();
 		
 		timestr.setText(tmpstr);
+		
+		ydatestr.setText(msg.getDate());
 		
 		RotateAnimation[] tmp = computeAni(msg.getMin(), hour);
 
