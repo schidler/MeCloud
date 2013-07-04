@@ -142,7 +142,6 @@ public class PublicActivity extends Activity implements OnTouchListener,
 		messages.add(new ActivityMessage());
 
 		// data
-
 		messages.add(new ActivityMessage(R.drawable.andrew0, "Andrew",
 				"张家界风景---放歌", "真不错", R.drawable.fj0, 1333143510605l));
 
@@ -151,6 +150,10 @@ public class PublicActivity extends Activity implements OnTouchListener,
 
 		messages.add(new ActivityMessage(R.drawable.andrew0, "Gauss",
 				"张家界风景--小溪流水", "真不错", R.drawable.fj2, 1333146510605l));
+
+		// text
+		messages.add(new ActivityMessage(R.drawable.gauss0, "Andrew",
+				"HiWiFI", "体验很好哦^_^", 1333143710605l));
 		
 		// text
 		messages.add(new ActivityMessage(R.drawable.gauss0, "Gauss",
@@ -273,6 +276,10 @@ public class PublicActivity extends Activity implements OnTouchListener,
 		System.out.println("layout=======padding top========"
 				+ scrollBarPanel.getPaddingTop());
 		TextView datestr = ((TextView) findViewById(R.id.clock_digital_date));
+		TextView timestr = ((TextView) findViewById(R.id.clock_digital_time));
+		ImageView minView = (ImageView) findViewById(R.id.clock_face_minute);
+		ImageView hourView = (ImageView) findViewById(R.id.clock_face_hour);
+		
 		datestr.setText("上午");
 		ActivityMessage msg = messages.get(firstVisiblePosition);
 
@@ -281,7 +288,9 @@ public class PublicActivity extends Activity implements OnTouchListener,
 
 		System.out.println("scrollBarPanel class==="
 				+ scrollBarPanel.getClass());
+		
 		int hour = msg.getHour();
+		
 		String tmpstr = "";
 		if (hour > 12) {
 			hour = hour - 12;
@@ -291,17 +300,17 @@ public class PublicActivity extends Activity implements OnTouchListener,
 
 			tmpstr += " ";
 		}
+		
 		tmpstr += hour + ":" + msg.getMin();
-		((TextView) findViewById(R.id.clock_digital_time)).setText(tmpstr);
+		
+		timestr.setText(tmpstr);
+		
 		RotateAnimation[] tmp = computeAni(msg.getMin(), hour);
 
-		System.out.println("tmp==========" + tmp);
-
-		ImageView minView = (ImageView) findViewById(R.id.clock_face_minute);
+		System.out.println("tmp==========" + tmp); 
 		System.out.println("minView============" + minView);
-		minView.startAnimation(tmp[0]);
-
-		ImageView hourView = (ImageView) findViewById(R.id.clock_face_hour);
+		
+		minView.startAnimation(tmp[0]); 
 		hourView.setImageResource(R.drawable.clock_hour_rotatable);
 		hourView.startAnimation(tmp[1]);
 
