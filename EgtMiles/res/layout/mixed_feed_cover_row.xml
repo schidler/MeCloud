@@ -85,7 +85,7 @@
             android:shadowRadius="0.1"
             android:textColor="@color/white"
             android:textSize="16.0dip"
-             android:text="深圳华域无线技术有限公司"
+            android:text="中国广东深圳南山"
             android:textStyle="bold" />
 
         <!-- friend apply request -->
