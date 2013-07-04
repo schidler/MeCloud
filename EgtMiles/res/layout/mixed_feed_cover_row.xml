@@ -85,7 +85,7 @@
             android:shadowRadius="0.1"
             android:textColor="@color/white"
             android:textSize="16.0dip"
-             android:text="成都市高新区天府软件园C区"
+             android:text="深圳华域无线技术有限公司"
             android:textStyle="bold" />
 
         <!-- friend apply request -->
