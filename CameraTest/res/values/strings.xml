@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, CameraTest!</string>
+    <string name="app_name">CameraTest</string>
+    <string name="button_text01">相机Preview</string>
+    <string name="button_text02">拍照</string>
+    <string name="button_text03">关相机</string>
+    <string name="str_node_err">未安装SD卡</string>
+    <string name="text_view01">呵呵</string>
+      <string name="back">前置Preview</string> 
+     <string name="browsePhoto">关闭相机</string>
+    <string name="takePhoto">点击拍照</string>
+    <string name="previewPhoto">启动相机</string>
+    <string name="preview">返回</string>
+    <string name="ok">上传</string>
+    <string name="upload_dialog">这是上传对话框</string>
+    <string name="upload_success">恭喜你，上传成功！！！</string>
+    <string name="upload_ok">确定</string>
+    <string name="upload_title">标题</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" 
+	android:orientation="vertical">
+	<ImageView 
+		android:id	="@+id/image_view01"
+		android:layout_width ="180px"
+		android:layout_height="200px"
+	/>
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent" 
+	android:layout_height="40dip" 
+	android:orientation="horizontal">
+	<TextView 
+		android:id  ="@+id/text_view01"
+		android:layout_width ="wrap_content"
+		android:layout_height="wrap_content"
+		android:text	="@string/upload_title"
+	/>
+	<EditText 
+		android:id	="@+id/edit_text01"
+		android:layout_width ="200px"
+		android:layout_height="wrap_content"
+		android:textSize ="15px"
+	/>
+	</LinearLayout>	
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent" 
+	android:layout_height="40dip" 
+	android:orientation="horizontal">
+		<Button 
+		android:id  ="@+id/button_preview"
+		android:layout_width ="100px"
+		android:layout_height="50px"
+		android:text ="@string/preview"
+		android:gravity ="center"
+		/>
+	<Button 
+		android:id  ="@+id/button_ok"
+		android:layout_width ="100px"
+		android:layout_height="50px"
+		android:text ="@string/ok"
+		android:gravity ="center"
+	/>
+	</LinearLayout>	
+</LinearLayout>

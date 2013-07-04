@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android=
+   "http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   >
+   <TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:layout_width="fill_parent" 
+	android:layout_height="445dip" 
+	android:orientation="vertical">
+	<SurfaceView android:id="@+id/surface_camera" 
+		android:layout_width="520px" 
+		android:layout_height="560px" 
+		android:layout_weight="1">
+	</SurfaceView>
+</LinearLayout>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+	android:orientation="horizontal" 
+	android:layout_width="fill_parent" 
+	android:layout_height="45dip">	
+	<Button android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/btnPreview" 
+		android:text="@string/previewPhoto" >
+	</Button>
+	<Button android:layout_width="wrap_content"
+		 android:layout_height="wrap_content" 
+		 android:id="@+id/btnTake" 
+		 android:text="@string/takePhoto" >
+	</Button>
+	 <Button android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/btnBrowser" 
+		android:text="@string/browsePhoto" >
+	</Button>
+</LinearLayout>
+ <TextView  
+ 	android:id	="@+id/myTextView01"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    />
+</FrameLayout>
