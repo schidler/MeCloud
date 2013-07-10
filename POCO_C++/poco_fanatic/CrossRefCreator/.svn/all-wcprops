@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/poco_fanatic/!svn/ver/440/trunk/CrossRefCreator
+END
+CrossRefCreator.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/CrossRefCreator.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/437/trunk/CrossRefCreator/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/configure.in
+END
+CrossRefCreator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/440/trunk/CrossRefCreator/CrossRefCreator.cpp
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/437/trunk/CrossRefCreator/PrepareConsoleLogger.h
+END
+CrossRefCreator.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/437/trunk/CrossRefCreator/CrossRefCreator.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/437/trunk/CrossRefCreator/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/84/trunk/CrossRefCreator/bootstrap
+END

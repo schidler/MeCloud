@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock/PrepareConsoleLogger.cpp
+END
+RWLockTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock/RWLockTest.cpp
+END
+RWLockTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock/RWLockTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/246/trunk/0051_RWLock/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/246/trunk/0051_RWLock/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/427/trunk/0051_RWLock/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/246/trunk/0051_RWLock/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/273/trunk/0051_RWLock/ReadMe.txt
+END
+RWLockTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/246/trunk/0051_RWLock/RWLockTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/246/trunk/0051_RWLock/bootstrap
+END

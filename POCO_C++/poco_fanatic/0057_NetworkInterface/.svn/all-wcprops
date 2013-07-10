@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface/PrepareConsoleLogger.cpp
+END
+NetworkInterfaceTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/309/trunk/0057_NetworkInterface/NetworkInterfaceTest.sln
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/307/trunk/0057_NetworkInterface/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/331/trunk/0057_NetworkInterface/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/307/trunk/0057_NetworkInterface/ScopedLogMessage.h
+END
+NetworkInterfaceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface/NetworkInterfaceTest.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/311/trunk/0057_NetworkInterface/ReadMe.txt
+END
+NetworkInterfaceTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/433/trunk/0057_NetworkInterface/NetworkInterfaceTest.vcproj
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/307/trunk/0057_NetworkInterface/bootstrap
+END

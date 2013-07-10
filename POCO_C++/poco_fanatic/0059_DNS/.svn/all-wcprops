@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS
+END
+DNSTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/335/trunk/0059_DNS/DNSTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS/PrepareConsoleLogger.cpp
+END
+DNSTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS/DNSTest.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/332/trunk/0059_DNS/ScopedLogMessage.cpp
+END
+DNSTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS/DNSTest.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/332/trunk/0059_DNS/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/435/trunk/0059_DNS/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/332/trunk/0059_DNS/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poco_fanatic/!svn/ver/335/trunk/0059_DNS/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poco_fanatic/!svn/ver/332/trunk/0059_DNS/bootstrap
+END

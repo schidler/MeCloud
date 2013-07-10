@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser/PrepareConsoleLogger.cpp
+END
+SAXParserTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/276/trunk/0056_SAXParser/SAXParserTest.sln
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/275/trunk/0056_SAXParser/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/275/trunk/0056_SAXParser/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser/Makefile.am
+END
+SAXParserTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser/SAXParserTest.cpp
+END
+SAXParserTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/432/trunk/0056_SAXParser/SAXParserTest.vcproj
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/275/trunk/0056_SAXParser/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/279/trunk/0056_SAXParser/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/275/trunk/0056_SAXParser/bootstrap
+END

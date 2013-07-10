@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/434/trunk/0058_MulticastSocket
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/314/trunk/0058_MulticastSocket/configure.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/314/trunk/0058_MulticastSocket/Makefile.am
+END
+MulticastSocketTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/317/trunk/0058_MulticastSocket/MulticastSocketTest.sln
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/321/trunk/0058_MulticastSocket/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/314/trunk/0058_MulticastSocket/bootstrap
+END

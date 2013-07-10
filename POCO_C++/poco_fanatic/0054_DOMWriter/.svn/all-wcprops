@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/258/trunk/0054_DOMWriter/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/258/trunk/0054_DOMWriter/configure.in
+END
+DOMWriterTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/259/trunk/0054_DOMWriter/DOMWriterTest.sln
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/258/trunk/0054_DOMWriter/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/262/trunk/0054_DOMWriter/ReadMe.txt
+END
+DOMWriterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter/DOMWriterTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/258/trunk/0054_DOMWriter/bootstrap
+END
+DOMWriterTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/430/trunk/0054_DOMWriter/DOMWriterTest.vcproj
+END

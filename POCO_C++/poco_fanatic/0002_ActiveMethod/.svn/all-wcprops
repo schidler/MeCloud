@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poco_fanatic/!svn/ver/380/trunk/0002_ActiveMethod
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/379/trunk/0002_ActiveMethod/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/configure.in
+END
+ActiveMethodTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/ActiveMethodTest.sln
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/379/trunk/0002_ActiveMethod/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/380/trunk/0002_ActiveMethod/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/ReadMe.txt
+END
+ActiveMethodTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/379/trunk/0002_ActiveMethod/ActiveMethodTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/7/trunk/0002_ActiveMethod/bootstrap
+END
+ActiveMethodTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/379/trunk/0002_ActiveMethod/ActiveMethodTest.vcproj
+END

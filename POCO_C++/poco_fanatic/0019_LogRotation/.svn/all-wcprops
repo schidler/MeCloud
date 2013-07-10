@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poco_fanatic/!svn/ver/142/trunk/0019_LogRotation
+END
+LogRotationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/LogRotationTest.cpp
+END
+LogRotationTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/142/trunk/0019_LogRotation/LogRotationTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/configure.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/ReadMe.txt
+END
+LogRotationTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/LogRotationTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/41/trunk/0019_LogRotation/bootstrap
+END

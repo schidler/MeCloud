@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poco_fanatic/!svn/ver/220/trunk/0049_SharedLibrary/SharedLibraryTestDir/ScopedLogMessage.cpp
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poco_fanatic/!svn/ver/220/trunk/0049_SharedLibrary/SharedLibraryTestDir/ScopedLogMessage.h
+END
+SharedLibraryTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir/SharedLibraryTest.cpp
+END
+SharedLibraryTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/poco_fanatic/!svn/ver/425/trunk/0049_SharedLibrary/SharedLibraryTestDir/SharedLibraryTest.vcproj
+END

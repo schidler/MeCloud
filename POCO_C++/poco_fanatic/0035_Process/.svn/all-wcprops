@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process
+END
+ProcessTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process/ProcessTest.cpp
+END
+ProcessTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process/ProcessTest.vcproj
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process/PrepareConsoleLogger.cpp
+END
+date.bat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/date.bat
+END
+ls.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/ls.bat
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/411/trunk/0035_Process/Makefile.am
+END
+ProcessTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/ProcessTest.sln
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/120/trunk/0035_Process/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/114/trunk/0035_Process/bootstrap
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple/PrepareConsoleLogger.cpp
+END
+TupleTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/255/trunk/0053_Tuple/TupleTest.sln
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/254/trunk/0053_Tuple/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/254/trunk/0053_Tuple/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/254/trunk/0053_Tuple/ScopedLogMessage.h
+END
+TupleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple/TupleTest.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/254/trunk/0053_Tuple/ReadMe.txt
+END
+TupleTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/429/trunk/0053_Tuple/TupleTest.vcproj
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/254/trunk/0053_Tuple/bootstrap
+END

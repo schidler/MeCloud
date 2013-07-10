@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poco_fanatic/!svn/ver/88/trunk/0033_NestedDiagnosticContext/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/88/trunk/0033_NestedDiagnosticContext/configure.in
+END
+NestedDiagnosticContextTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/poco_fanatic/!svn/ver/88/trunk/0033_NestedDiagnosticContext/NestedDiagnosticContextTest.sln
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/88/trunk/0033_NestedDiagnosticContext/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/92/trunk/0033_NestedDiagnosticContext/ReadMe.txt
+END
+NestedDiagnosticContextTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext/NestedDiagnosticContextTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/88/trunk/0033_NestedDiagnosticContext/bootstrap
+END
+NestedDiagnosticContextTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/poco_fanatic/!svn/ver/409/trunk/0033_NestedDiagnosticContext/NestedDiagnosticContextTest.vcproj
+END

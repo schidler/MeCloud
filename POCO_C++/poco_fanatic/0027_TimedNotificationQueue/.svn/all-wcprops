@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue
+END
+TimedNotificationQueueTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue/TimedNotificationQueueTest.cpp
+END
+TimedNotificationQueueTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue/TimedNotificationQueueTest.vcproj
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/403/trunk/0027_TimedNotificationQueue/Makefile.am
+END
+TimedNotificationQueueTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/TimedNotificationQueueTest.sln
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/57/trunk/0027_TimedNotificationQueue/bootstrap
+END

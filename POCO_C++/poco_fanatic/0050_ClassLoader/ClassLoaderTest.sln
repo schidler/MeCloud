@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Plugin", "Plugin\Plugin.vcproj", "{04C24636-D1A0-4B65-B382-57C188F72E7A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassLoaderTest", "ClassLoaderTestDir\ClassLoaderTest.vcproj", "{3B485D53-F6F7-4309-8F82-361916BBB15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C24636-D1A0-4B65-B382-57C188F72E7A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04C24636-D1A0-4B65-B382-57C188F72E7A}.Debug|Win32.Build.0 = Debug|Win32
+		{04C24636-D1A0-4B65-B382-57C188F72E7A}.Release|Win32.ActiveCfg = Release|Win32
+		{04C24636-D1A0-4B65-B382-57C188F72E7A}.Release|Win32.Build.0 = Release|Win32
+		{3B485D53-F6F7-4309-8F82-361916BBB15F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3B485D53-F6F7-4309-8F82-361916BBB15F}.Debug|Win32.Build.0 = Debug|Win32
+		{3B485D53-F6F7-4309-8F82-361916BBB15F}.Release|Win32.ActiveCfg = Release|Win32
+		{3B485D53-F6F7-4309-8F82-361916BBB15F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+SUBDIRS = \
+	SharedMemory \
+	SharedMemoryServer \
+	SharedMemoryClient

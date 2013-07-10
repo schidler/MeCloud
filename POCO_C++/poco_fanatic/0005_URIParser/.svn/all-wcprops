@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser/PrepareConsoleLogger.cpp
+END
+URIParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/URIParser.h
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser/PrepareConsoleLogger.h
+END
+URIParser.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/351/trunk/0005_URIParser/URIParser.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/ReadMe.txt
+END
+URIParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/URIParser.cpp
+END
+URIParserTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser/URIParserTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/13/trunk/0005_URIParser/bootstrap
+END
+URIParser.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/383/trunk/0005_URIParser/URIParser.vcproj
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer
+END
+TimerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer/TimerTest.cpp
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer/PrepareConsoleLogger.cpp
+END
+TimerTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer/TimerTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/396/trunk/0020_Timer/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/ReadMe.txt
+END
+TimerTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/TimerTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poco_fanatic/!svn/ver/43/trunk/0020_Timer/bootstrap
+END

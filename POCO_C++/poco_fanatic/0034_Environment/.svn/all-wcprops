@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment
+END
+EnvironmentTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/EnvironmentTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment/PrepareConsoleLogger.cpp
+END
+EnvironmentTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment/EnvironmentTest.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/ScopedLogMessage.cpp
+END
+EnvironmentTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment/EnvironmentTest.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/410/trunk/0034_Environment/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/101/trunk/0034_Environment/bootstrap
+END

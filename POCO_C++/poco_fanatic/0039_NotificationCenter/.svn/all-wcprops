@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter
+END
+NotificationCenterTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poco_fanatic/!svn/ver/148/trunk/0039_NotificationCenter/NotificationCenterTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/147/trunk/0039_NotificationCenter/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/147/trunk/0039_NotificationCenter/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter/PrepareConsoleLogger.h
+END
+NotificationCenterTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter/NotificationCenterTest.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter/Makefile.am
+END
+NotificationCenterTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poco_fanatic/!svn/ver/415/trunk/0039_NotificationCenter/NotificationCenterTest.vcproj
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/147/trunk/0039_NotificationCenter/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/147/trunk/0039_NotificationCenter/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/147/trunk/0039_NotificationCenter/bootstrap
+END

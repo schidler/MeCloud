@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID
+END
+UUIDTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/UUIDTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID/PrepareConsoleLogger.h
+END
+UUIDTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID/UUIDTest.cpp
+END
+UUIDTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID/UUIDTest.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/401/trunk/0025_UUID/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/poco_fanatic/!svn/ver/53/trunk/0025_UUID/bootstrap
+END

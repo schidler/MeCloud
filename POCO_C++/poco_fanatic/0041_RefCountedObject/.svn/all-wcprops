@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject
+END
+RefCountedObjectTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/162/trunk/0041_RefCountedObject/RefCountedObjectTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/161/trunk/0041_RefCountedObject/ScopedLogMessage.cpp
+END
+RefCountedObjectTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject/RefCountedObjectTest.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/161/trunk/0041_RefCountedObject/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject/PrepareConsoleLogger.h
+END
+RefCountedObjectTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject/RefCountedObjectTest.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/417/trunk/0041_RefCountedObject/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/161/trunk/0041_RefCountedObject/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/161/trunk/0041_RefCountedObject/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/161/trunk/0041_RefCountedObject/bootstrap
+END

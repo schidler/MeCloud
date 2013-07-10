@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NestedDiagnosticContextTest", "NestedDiagnosticContextTest.vcproj", "{21FB8989-0216-427B-B031-394D62CAF440}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21FB8989-0216-427B-B031-394D62CAF440}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21FB8989-0216-427B-B031-394D62CAF440}.Debug|Win32.Build.0 = Debug|Win32
+		{21FB8989-0216-427B-B031-394D62CAF440}.Release|Win32.ActiveCfg = Release|Win32
+		{21FB8989-0216-427B-B031-394D62CAF440}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

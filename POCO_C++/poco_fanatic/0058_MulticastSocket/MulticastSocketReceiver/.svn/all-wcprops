@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/330/trunk/0058_MulticastSocket/MulticastSocketReceiver
+END
+MulticastSocketReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/poco_fanatic/!svn/ver/314/trunk/0058_MulticastSocket/MulticastSocketReceiver/MulticastSocketReceiver.cpp
+END
+MulticastSocketTestReceiver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/poco_fanatic/!svn/ver/320/trunk/0058_MulticastSocket/MulticastSocketReceiver/MulticastSocketTestReceiver.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/poco_fanatic/!svn/ver/330/trunk/0058_MulticastSocket/MulticastSocketReceiver/Makefile.am
+END

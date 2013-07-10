@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/configure.in
+END
+DynamicAnyTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/DynamicAnyTest.sln
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/ReadMe.txt
+END
+DynamicAnyTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny/DynamicAnyTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/85/trunk/0032_DynamicAny/bootstrap
+END
+DynamicAnyTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/408/trunk/0032_DynamicAny/DynamicAnyTest.vcproj
+END

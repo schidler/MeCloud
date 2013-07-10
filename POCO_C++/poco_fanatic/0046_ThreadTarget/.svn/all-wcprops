@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget
+END
+ThreadTargetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget/ThreadTargetTest.cpp
+END
+ThreadTargetTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget/ThreadTargetTest.vcproj
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/422/trunk/0046_ThreadTarget/Makefile.am
+END
+ThreadTargetTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/ThreadTargetTest.sln
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/194/trunk/0046_ThreadTarget/bootstrap
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration/PrepareConsoleLogger.h
+END
+SystemConfigurationTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/SystemConfigurationTest.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/ReadMe.txt
+END
+SystemConfigurationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration/SystemConfigurationTest.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/29/trunk/0013_SystemConfiguration/bootstrap
+END
+SystemConfigurationTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poco_fanatic/!svn/ver/390/trunk/0013_SystemConfiguration/SystemConfigurationTest.vcproj
+END

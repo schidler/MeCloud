@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet
+END
+HashSetTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet/HashSetTest.cpp
+END
+ScopedElapsedTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/ScopedElapsedTime.h
+END
+HashSetTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet/HashSetTest.vcproj
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poco_fanatic/!svn/ver/386/trunk/0008_HashSet/Makefile.am
+END
+HashSetTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/HashSetTest.sln
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/ReadMe.txt
+END
+ScopedElapsedTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/ScopedElapsedTime.cpp
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/19/trunk/0008_HashSet/bootstrap
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool/PrepareConsoleLogger.cpp
+END
+AutoReleasePoolTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool/AutoReleasePoolTest.cpp
+END
+AutoReleasePoolTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool/AutoReleasePoolTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/165/trunk/0042_AutoReleasePool/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/165/trunk/0042_AutoReleasePool/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/418/trunk/0042_AutoReleasePool/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/165/trunk/0042_AutoReleasePool/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/165/trunk/0042_AutoReleasePool/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/165/trunk/0042_AutoReleasePool/bootstrap
+END
+AutoReleasePoolTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/166/trunk/0042_AutoReleasePool/AutoReleasePoolTest.sln
+END

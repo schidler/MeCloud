@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/configure.in
+END
+ClassLoaderTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/230/trunk/0050_ClassLoader/ClassLoaderTest.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/Makefile.am
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/243/trunk/0050_ClassLoader/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/bootstrap
+END

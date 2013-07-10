@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher/PrepareConsoleLogger.cpp
+END
+ActiveDispatcherTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher/ActiveDispatcherTest.cpp
+END
+ActiveDispatcherTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher/ActiveDispatcherTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/381/trunk/0003_ActiveDispatcher/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/ReadMe.txt
+END
+ActiveDispatcherTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/ActiveDispatcherTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/9/trunk/0003_ActiveDispatcher/bootstrap
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader
+END
+BinaryWriterReaderTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/BinaryWriterReaderTest.sln
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader/PrepareConsoleLogger.cpp
+END
+BinaryWriterReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader/BinaryWriterReaderTest.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/ScopedLogMessage.cpp
+END
+BinaryWriterReaderTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader/BinaryWriterReaderTest.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/404/trunk/0028_BinaryWriterReader/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/59/trunk/0028_BinaryWriterReader/bootstrap
+END

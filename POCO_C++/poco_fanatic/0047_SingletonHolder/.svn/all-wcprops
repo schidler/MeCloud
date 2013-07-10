@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder
+END
+SingletonHolderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder/SingletonHolderTest.cpp
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder/PrepareConsoleLogger.cpp
+END
+SingletonHolderTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder/SingletonHolderTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/ScopedLogMessage.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/423/trunk/0047_SingletonHolder/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/ScopedLogMessage.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/ReadMe.txt
+END
+SingletonHolderTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/SingletonHolderTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/214/trunk/0047_SingletonHolder/bootstrap
+END

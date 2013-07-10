@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory
+END
+SharedMemoryTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory/SharedMemoryTest.cpp
+END
+SharedMemoryTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory/SharedMemoryTest.vcproj
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poco_fanatic/!svn/ver/124/trunk/0036_SharedMemory/SharedMemory/ScopedLogMessage.cpp
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory/SharedMemory/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poco_fanatic/!svn/ver/124/trunk/0036_SharedMemory/SharedMemory/ScopedLogMessage.h
+END

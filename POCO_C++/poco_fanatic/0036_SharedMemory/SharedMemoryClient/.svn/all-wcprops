@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/301/trunk/0036_SharedMemory/SharedMemoryClient
+END
+SharedMemoryClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/poco_fanatic/!svn/ver/301/trunk/0036_SharedMemory/SharedMemoryClient/SharedMemoryClient.cpp
+END
+SharedMemoryTestClient.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/poco_fanatic/!svn/ver/129/trunk/0036_SharedMemory/SharedMemoryClient/SharedMemoryTestClient.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poco_fanatic/!svn/ver/291/trunk/0036_SharedMemory/SharedMemoryClient/Makefile.am
+END

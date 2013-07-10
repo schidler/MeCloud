@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/poco_fanatic/!svn/ver/230/trunk/0050_ClassLoader/Plugin
+END
+Plugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/Plugin/Plugin.cpp
+END
+Plugin.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/230/trunk/0050_ClassLoader/Plugin/Plugin.vcproj
+END
+Plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/Plugin/Plugin.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/Plugin/Makefile.am
+END

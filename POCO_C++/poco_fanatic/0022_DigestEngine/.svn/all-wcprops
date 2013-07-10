@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine
+END
+HTTPGetter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/HTTPGetter.h
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine/PrepareConsoleLogger.cpp
+END
+DigetEngineTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine/DigetEngineTest.vcproj
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/ScopedLogMessage.cpp
+END
+DigestEngineTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine/DigestEngineTest.cpp
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/configure.in
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/398/trunk/0022_DigestEngine/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/ScopedLogMessage.h
+END
+HTTPGetter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/HTTPGetter.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/348/trunk/0022_DigestEngine/ReadMe.txt
+END
+DigetEngineTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/DigetEngineTest.sln
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/poco_fanatic/!svn/ver/47/trunk/0022_DigestEngine/bootstrap
+END

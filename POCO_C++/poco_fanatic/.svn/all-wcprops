@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/poco_fanatic/!svn/ver/440/trunk
+END
+buildAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/poco_fanatic/!svn/ver/76/trunk/buildAll.sh
+END
+archiveAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/poco_fanatic/!svn/ver/306/trunk/archiveAll.sh
+END
+runAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/poco_fanatic/!svn/ver/357/trunk/runAll.sh
+END
+configAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/poco_fanatic/!svn/ver/288/trunk/configAll.sh
+END
+buildAll.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/poco_fanatic/!svn/ver/91/trunk/buildAll.bat
+END

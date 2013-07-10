@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir
+END
+PrepareConsoleLogger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir/PrepareConsoleLogger.cpp
+END
+ScopedLogMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/ClassLoaderTestDir/ScopedLogMessage.cpp
+END
+PrepareConsoleLogger.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir/PrepareConsoleLogger.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir/Makefile.am
+END
+ScopedLogMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poco_fanatic/!svn/ver/229/trunk/0050_ClassLoader/ClassLoaderTestDir/ScopedLogMessage.h
+END
+ClassLoaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir/ClassLoaderTest.cpp
+END
+ClassLoaderTest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poco_fanatic/!svn/ver/426/trunk/0050_ClassLoader/ClassLoaderTestDir/ClassLoaderTest.vcproj
+END

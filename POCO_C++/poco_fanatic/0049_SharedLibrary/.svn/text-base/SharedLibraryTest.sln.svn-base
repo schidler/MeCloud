@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C++ Express 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SharedLibraryTest", "SharedLibraryTestDir\SharedLibraryTest.vcproj", "{563D232E-2BF1-4F31-B9DD-07684E974E60}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SharedLibrary", "SharedLibrary\SharedLibrary.vcproj", "{3777E49C-E17E-4D4C-B0E6-0A3C12D59377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{563D232E-2BF1-4F31-B9DD-07684E974E60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{563D232E-2BF1-4F31-B9DD-07684E974E60}.Debug|Win32.Build.0 = Debug|Win32
+		{563D232E-2BF1-4F31-B9DD-07684E974E60}.Release|Win32.ActiveCfg = Release|Win32
+		{563D232E-2BF1-4F31-B9DD-07684E974E60}.Release|Win32.Build.0 = Release|Win32
+		{3777E49C-E17E-4D4C-B0E6-0A3C12D59377}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3777E49C-E17E-4D4C-B0E6-0A3C12D59377}.Debug|Win32.Build.0 = Debug|Win32
+		{3777E49C-E17E-4D4C-B0E6-0A3C12D59377}.Release|Win32.ActiveCfg = Release|Win32
+		{3777E49C-E17E-4D4C-B0E6-0A3C12D59377}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

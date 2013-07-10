@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poco_fanatic/!svn/ver/225/trunk/0049_SharedLibrary/SharedLibrary
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poco_fanatic/!svn/ver/220/trunk/0049_SharedLibrary/SharedLibrary/Makefile.am
+END
+SharedLibrary.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poco_fanatic/!svn/ver/225/trunk/0049_SharedLibrary/SharedLibrary/SharedLibrary.cpp
+END
+SharedLibrary.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poco_fanatic/!svn/ver/223/trunk/0049_SharedLibrary/SharedLibrary/SharedLibrary.vcproj
+END

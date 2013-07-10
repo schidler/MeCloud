@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/poco_fanatic/!svn/ver/412/trunk/0036_SharedMemory
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/poco_fanatic/!svn/ver/124/trunk/0036_SharedMemory/configure.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/poco_fanatic/!svn/ver/124/trunk/0036_SharedMemory/Makefile.am
+END
+SharedMemoryTest.sln
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poco_fanatic/!svn/ver/126/trunk/0036_SharedMemory/SharedMemoryTest.sln
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poco_fanatic/!svn/ver/299/trunk/0036_SharedMemory/ReadMe.txt
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poco_fanatic/!svn/ver/124/trunk/0036_SharedMemory/bootstrap
+END

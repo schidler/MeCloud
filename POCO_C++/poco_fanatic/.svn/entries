@@ -1,0 +1,387 @@
+10
+
+dir
+440
+https://subversion.assembla.com/svn/poco_fanatic/trunk
+https://subversion.assembla.com/svn/poco_fanatic
+
+
+
+2013-05-31T05:25:32.050208Z
+440
+setsu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c6742c67-222d-4d27-8c90-89eee42fd4af
+
+0020_Timer
+dir
+
+archiveAll.sh
+file
+
+
+
+
+2013-07-10T06:43:43.186545Z
+ea09139c5ddeb46a86537da3c40e0bae
+2011-02-15T19:51:31.509300Z
+306
+Setsu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1149
+
+0054_DOMWriter
+dir
+
+0003_ActiveDispatcher
+dir
+
+0057_NetworkInterface
+dir
+
+0035_Process
+dir
+
+0031_Glob
+dir
+
+0041_RefCountedObject
+dir
+
+0011_Format
+dir
+
+0058_MulticastSocket
+dir
+
+0007_LRUCache
+dir
+
+0038_BasicEvent
+dir
+
+0006_ScopedElapsedTime
+dir
+
+0053_Tuple
+dir
+
+0014_DateTime
+dir
+
+0059_DNS
+dir
+
+0039_NotificationCenter
+dir
+
+CrossRefCreator
+dir
+
+0036_SharedMemory
+dir
+
+0022_DigestEngine
+dir
+
+0044_Checksum
+dir
+
+0037_SynchronizedObject
+dir
+
+0013_SystemConfiguration
+dir
+
+0021_UtilTimer
+dir
+
+0023_TypeList
+dir
+
+0016_File
+dir
+
+0018_DirectoryIterator
+dir
+
+0027_TimedNotificationQueue
+dir
+
+0024_URIStreamOpener
+dir
+
+0045_ThreadLocal
+dir
+
+0060_ICMPClient
+dir
+
+0033_NestedDiagnosticContext
+dir
+
+0043_ByteOrder
+dir
+
+0012_String
+dir
+
+0047_SingletonHolder
+dir
+
+0025_UUID
+dir
+
+0002_ActiveMethod
+dir
+
+0005_URIParser
+dir
+
+0056_SAXParser
+dir
+
+0061_TCPServer
+dir
+
+0030_RegularExpression
+dir
+
+0009_HTTPClientSession
+dir
+
+downloads
+dir
+
+buildAll.bat
+file
+
+
+
+
+2013-07-10T06:43:43.202163Z
+94b6da0982f5c5e5c034e9f82d5149c9
+2010-06-22T09:40:56.938293Z
+91
+Setsu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+545
+
+0050_ClassLoader
+dir
+
+0032_DynamicAny
+dir
+
+0015_Path
+dir
+
+buildAll.sh
+file
+
+
+
+
+2013-07-10T06:43:43.202163Z
+ba8e2c3efa8c5f61d7a011f35ffbf49f
+2010-06-17T20:16:29.946005Z
+76
+Setsu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+313
+
+0026_NotificationQueue
+dir
+
+0048_FPEnvironment
+dir
+
+0051_RWLock
+dir
+
+0010_HTTPServer
+dir
+
+runAll.sh
+file
+
+
+
+
+2013-07-10T06:43:43.217781Z
+09260ac97133b3bcdf88bf94c1c76ddb
+2013-04-26T22:00:23.570062Z
+357
+setsu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+849
+
+0049_SharedLibrary
+dir
+
+configAll.sh
+file
+
+
+
+
+2013-07-10T06:43:43.233399Z
+3438cbf01a3d5039c4e34651ef250f3e
+2010-11-06T09:10:38.046567Z
+288
+Setsu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1063
+
+0034_Environment
+dir
+
+0019_LogRotation
+dir
+
+0040_DynamicFactory
+dir
+
+0001_ScopedLogMessage
+dir
+
+0046_ThreadTarget
+dir
+
+0004_RestParser
+dir
+
+0017_FileStream
+dir
+
+0055_DOMParser
+dir
+
+0008_HashSet
+dir
+
+0042_AutoReleasePool
+dir
+
+0052_Mutex
+dir
+
+0029_MemoryPool
+dir
+
+0028_BinaryWriterReader
+dir
+

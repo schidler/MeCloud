@@ -4,7 +4,7 @@ MeCloud
 About Private Cloud Application using Aliyun And Amazon
 
 ###EgtMiles###
-一个仿PATH的界面，有时间轴
+涓�涓豢PATH鐨勭晫闈紝鏈夋椂闂磋酱
 
 ###doc###
-文档目录
+鏂囨。鐩綍

@@ -1,0 +1,4 @@
+SUBDIRS = \
+	MulticastSocket \
+	MulticastSocketSender \
+	MulticastSocketReceiver
