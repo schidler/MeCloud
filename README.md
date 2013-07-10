@@ -23,6 +23,8 @@ About Private Cloud Application using Aliyun And Amazon
 
 #COMPILE#
 ##OPENSSL##
+[参考](http://blog.csdn.net/yyingwei/article/details/8562337)
+
 - version is openssl-1.0.1e.tar.gz
 - download url: http://www.openssl.org/source/openssl-1.0.1e.tar.gz
 
