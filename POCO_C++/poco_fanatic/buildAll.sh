@@ -10,7 +10,7 @@
 
 dirOrigin=$PWD
 
-dirs=`ls | grep _`
+dirs=`ls | grep 100._`
 
 for str in $dirs
 do

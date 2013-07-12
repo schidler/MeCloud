@@ -10,7 +10,7 @@
 
 isMac=`uname -a | grep "Darwin" | wc -w`
 
-configstr="CXXFLAGS=\"-O2 -Wall\" ./configure --cache=/dev/null --prefix=/usr"
+configstr="CXXFLAGS=\"-O2 -Wall -I/opt/poco/include -L/opt/poco/lib\" ./configure --cache=/dev/null --prefix=/usr"
 
 for i in "$@"
 do
@@ -24,7 +24,7 @@ done
 
 dirOrigin=$PWD
 
-dirs=`ls | grep _`
+dirs=`ls | grep 100._`
 
 for str in $dirs
 do
