@@ -34,4 +34,4 @@ About Private Cloud Application using Aliyun And Amazon
 - make install
 
 ##POCO C++##
-./configure --prefix=/opt/poco --config=Linux --include-path=/opt/openssl/include --library-path=/opt/openssl/lib --omit=Data/MySQL,Data/ODBC,Zip
+./configure --prefix=/opt/poco --config=Linux --include-path=/opt/openssl/include --library-path=/opt/openssl/lib --omit=Data/ODBC
