@@ -35,3 +35,15 @@ About Private Cloud Application using Aliyun And Amazon
 
 ##POCO C++##
 ./configure --prefix=/opt/poco --config=Linux --include-path=/opt/openssl/include --library-path=/opt/openssl/lib --omit=Data/ODBC
+
+##siege##
+一个WEB压力测试工具
+siege -c 500 -r 500 -H "Date: Mon, 29 Jul 2013 10:39:16 GMT" -H "X-HOJY-Authorization:HOJY_c9ee688fa7de40bbc0ced8b5a493121c" -H "X-HOJY-IMEI:1234567890" -H "X-HOJY-SN:SN1234567890" -H "X-HOJY-Version:V1316R01C01S90" http://42.121.253.77:8080/hsworkapp/newversion
+
+###参考###
+- http://www.joedog.org/siege-home/
+- http://www.zihou.me/html/2011/01/27/2737.html
+- http://www.chedong.com/blog/archives/000033.html
+- http://book.51cto.com/art/201110/299804.htm
+- https://code.google.com/p/siege-windows/
+
